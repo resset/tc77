@@ -1,0 +1,3 @@
+[submodule "TC77"]
+	path = TC77
+	url = https://github.com/MajenkoLibraries/TC77.git
