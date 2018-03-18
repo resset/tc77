@@ -1,0 +1,9 @@
+2018-03-16 21:46:28.638069940_26.06 - start testu
+2018-03-16 21:49:23.822934351_24.31 - otworzyłem drzwi balkonowe
+2018-03-16 21:52:50.059406252_19.69 - zamknąłem drzwi balkonowe
+2018-03-16 21:59:17.487972099_21.19 - wystawiłem czujnik za okno
+2018-03-17 10:14:16.375801931_-0.69 - otworzyłem drzwi balkonowe, czujnik za oknem
+2018-03-17 10:17:50.597686329_-0.31 - zamknąłem drzwi balkonowe
+2018-03-17 12:58:43.667621580_26.19 - koniec testu
+
+Nagły wzrost temperatury na pod koniec to działanie słońca na czujnik a nie faktyczny wzrost temperatury powietrza.
